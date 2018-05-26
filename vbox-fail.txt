@@ -1,0 +1,10 @@
+
+Failed to load VMMR0.r0 (VERR_SUPLIB_WORLD_WRITABLE).
+Unknown error creating VM (VERR_SUPLIB_WORLD_WRITABLE).
+
+Result Code: NS_ERROR_FAILURE (0x80004005)
+Component: Console
+Interface: IConsole {515e8e8d-f932-4d8e-9f32-79a52aead882} 
+
+Resolution:
+sudo chmod -R o-w /usr

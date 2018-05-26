@@ -1,0 +1,9 @@
+
+when copy a hyper link from github graphyically, I cannot copy the string by <option button + p>,
+
+but after I redo the copy step, and use mouse click instead of the menu button on keyboard,
+
+the paste can be handled in this way!
+
+it is weird...
+

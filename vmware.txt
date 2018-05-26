@@ -1,0 +1,6 @@
+
+bridge will use the physical netcard, it will use occupy an IP address
+
+nat, it will use virtual netcard, communicate with host, if the host can access Internet, vm will access Internet .
+
+host only, communicate with host only .

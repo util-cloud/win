@@ -1,0 +1,4 @@
+
+vbox->setting->share folder
+
+cmd -> net use x: \\vboxsvr\ROOT
