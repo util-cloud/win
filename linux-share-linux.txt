@@ -1,0 +1,24 @@
+
+=================================
+
+server:
+
+apt-get install nfs-kernel-server
+
+vi /etc/exports {
+/path/to/folder 192.168.1.*(rw,sync,no_subtree_check,no_root_squash)
+}
+
+exportfs -r
+
+service nfs-kernel-server start
+
+===========================
+
+client:
+
+apt-get install nfs-common
+
+mount 192.168.1.101:/path/to/folder /mnt/folder
+
+============================

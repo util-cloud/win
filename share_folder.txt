@@ -1,0 +1,11 @@
+
+machine -> setting -> share folder {
+	remember the NAME .
+}
+
+win -> cmd {
+	net use x: \\vboxsvr\$(NAME)
+}
+
+it is not work for ROOT, you can specify a name for the share folder.
+Emm..., it was work again...

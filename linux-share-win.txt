@@ -1,0 +1,8 @@
+
+on win:
+
+right click on target share folder -> properities -> sharing -> advance -> share this folder
+
+on linux:
+
+mount -t cifs -o username="linkerist" //192.168.1.101/e /mnt/win
