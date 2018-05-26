@@ -1,0 +1,5 @@
+user access control in win, there are some warning when I start some system program,
+
+run -> msconfig -> shutdown the UAC
+
+then we can start program without access warning now

@@ -1,0 +1,4 @@
+
+some locale problem happened in the process of software installation.
+
+control panel -> clock, language, region -> region and language -> administrative -> change system locale -> Chinese RPC
