@@ -1,0 +1,20 @@
+E:\Assembly\Assembly\Assembly Language\32_64-Bit 80×86 Assembly Language Architecture.chm
+E:\Assembly\Intel\32_64-Bit_80×86_Assembly_Language_Architecture.chm
+E:\Linux_C\APUE\APUE_EN.chm
+E:\Assembly\ARM\ARM_Instr\ARM_Ref_CN.CHM
+E:\Proj\Vay_BootLoader\Vay_BootLoader.xmind\3.ARM汇编\2.ARM指令分类学习\arm汇编手册（中文版）.chm
+E:\Assembly\Asm问题&文档.chm
+E:\Assembly\Assembly\Asm问题&文档.chm
+E:\Assembly\Assembly\Assembly Language\Assembly Language Step-by-Step_ Programming with DOS and Linux, Second Edition.chm
+E:\Linux\Linux\BSD\BSD Hacks.chm
+E:\Linux\Linux\BSD\BSD+Hacks.chm
+E:\Compiler\Building an Optimizing Compiler.chm
+E:\Linux\Linux\System_Administration\Implementing_Backup_and_Recovery.chm
+E:\Linux\Linux\Interprocess_Communications_in_Linux.chm
+E:\Assembly\Assembly\Introduction to 80x86 Assembly Language and Computer Architecture.chm
+E:\Algorithm\Introduction to Algorithms\Introduction_To_Algorithms_EN.chm
+E:\Assembly\汇编语言教程.chm
+E:\Assembly\Assembly\汇编语言教程.chm
+E:\Assembly\Assembly\Assembly Language\汇编语言教程.chm
+E:\Assembly\计算机组成原理\电脑硬件知识详解.chm
+E:\Assembly\Assembly\汇编\简明X86汇编语言教程[RUIWIN整理版].CHM
